@@ -1,0 +1,686 @@
+[
+    {
+        "from_stop": "Чкалова",
+        "to_stop": "Курорт Ангара",
+        "average_travel_time_seconds": 634.0,
+        "average_speed_kmph": 10.928652693039048
+    },
+    {
+        "from_stop": "Курорт Ангара",
+        "to_stop": "2-я Железнодорожная",
+        "average_travel_time_seconds": 214.5,
+        "average_speed_kmph": 8.679481064591382
+    },
+    {
+        "from_stop": "2-я Железнодорожная",
+        "to_stop": "Чайка",
+        "average_travel_time_seconds": 128.33333333333334,
+        "average_speed_kmph": 20.92740421307843
+    },
+    {
+        "from_stop": "Чайка",
+        "to_stop": "Технический университет",
+        "average_travel_time_seconds": 244.0,
+        "average_speed_kmph": 28.736460441347706
+    },
+    {
+        "from_stop": "Технический университет",
+        "to_stop": "Институт МВД",
+        "average_travel_time_seconds": 134.0,
+        "average_speed_kmph": 14.00766058966771
+    },
+    {
+        "from_stop": "Институт МВД",
+        "to_stop": "Мегаполис",
+        "average_travel_time_seconds": 368.0,
+        "average_speed_kmph": 9.58561703238202
+    },
+    {
+        "from_stop": "Мегаполис",
+        "to_stop": "Гуманитарный центр",
+        "average_travel_time_seconds": 139.0,
+        "average_speed_kmph": 23.56090788189512
+    },
+    {
+        "from_stop": "Гуманитарный центр",
+        "to_stop": "Ботанический Сад",
+        "average_travel_time_seconds": 478.5,
+        "average_speed_kmph": 8.313258427612336
+    },
+    {
+        "from_stop": "Ботанический Сад",
+        "to_stop": "Вампилова",
+        "average_travel_time_seconds": 139.8,
+        "average_speed_kmph": 18.90300987169432
+    },
+    {
+        "from_stop": "Вампилова",
+        "to_stop": "Первомайский микрорайон",
+        "average_travel_time_seconds": 125.57142857142857,
+        "average_speed_kmph": 10.606871806820832
+    },
+    {
+        "from_stop": "Первомайский микрорайон",
+        "to_stop": "Топкинский микрорайон",
+        "average_travel_time_seconds": 3971.0,
+        "average_speed_kmph": 9.030146967892993
+    },
+    {
+        "from_stop": "Топкинский микрорайон",
+        "to_stop": "Чапаева",
+        "average_travel_time_seconds": 177.0,
+        "average_speed_kmph": 33.44898747700495
+    },
+    {
+        "from_stop": "Сквер им. Кирова",
+        "to_stop": "Центральный рынок",
+        "average_travel_time_seconds": 458.0,
+        "average_speed_kmph": 10.00989434112725
+    },
+    {
+        "from_stop": "Центральный рынок",
+        "to_stop": "Институт зрения",
+        "average_travel_time_seconds": 266.0,
+        "average_speed_kmph": 10.999107035610718
+    },
+    {
+        "from_stop": "Институт зрения",
+        "to_stop": "Фортуна",
+        "average_travel_time_seconds": 96.0,
+        "average_speed_kmph": 19.857840645273203
+    },
+    {
+        "from_stop": "Фортуна",
+        "to_stop": "ГПТУ №1 (временный)",
+        "average_travel_time_seconds": 265.0,
+        "average_speed_kmph": 7.87948808150331
+    },
+    {
+        "from_stop": "ГПТУ №1 (временный)",
+        "to_stop": "Гараж",
+        "average_travel_time_seconds": 239.75,
+        "average_speed_kmph": 14.237663904342252
+    },
+    {
+        "from_stop": "Гараж",
+        "to_stop": "Пшеничная",
+        "average_travel_time_seconds": 113.2,
+        "average_speed_kmph": 11.719862927391485
+    },
+    {
+        "from_stop": "Пшеничная",
+        "to_stop": "Онкодиспансер",
+        "average_travel_time_seconds": 57.666666666666664,
+        "average_speed_kmph": 19.831219717164647
+    },
+    {
+        "from_stop": "Онкодиспансер",
+        "to_stop": "Чапаева",
+        "average_travel_time_seconds": 101.0,
+        "average_speed_kmph": 17.11716687238773
+    },
+    {
+        "from_stop": "Чапаева",
+        "to_stop": "Детская",
+        "average_travel_time_seconds": 50.0,
+        "average_speed_kmph": 19.137265601363236
+    },
+    {
+        "from_stop": "Детская",
+        "to_stop": "Топкинский микрорайон",
+        "average_travel_time_seconds": 242.0,
+        "average_speed_kmph": 19.559601524496376
+    },
+    {
+        "from_stop": "Фортуна",
+        "to_stop": "Институт зрения",
+        "average_travel_time_seconds": 572.0,
+        "average_speed_kmph": 3.4522559077089356
+    },
+    {
+        "from_stop": "Институт зрения",
+        "to_stop": "Кинотеатр Пионер",
+        "average_travel_time_seconds": 94.5,
+        "average_speed_kmph": 6.356989258398524
+    },
+    {
+        "from_stop": "Кинотеатр Пионер",
+        "to_stop": "Тимирязева",
+        "average_travel_time_seconds": 301.5,
+        "average_speed_kmph": 7.785885825925488
+    },
+    {
+        "from_stop": "Тимирязева",
+        "to_stop": "Центральный рынок",
+        "average_travel_time_seconds": 167.5,
+        "average_speed_kmph": 10.742297010801861
+    },
+    {
+        "from_stop": "Центральный рынок",
+        "to_stop": "Ленина",
+        "average_travel_time_seconds": 494.5,
+        "average_speed_kmph": 6.296935404712086
+    },
+    {
+        "from_stop": "Ленина",
+        "to_stop": "Художественный музей",
+        "average_travel_time_seconds": 203.5,
+        "average_speed_kmph": 12.952525495899915
+    },
+    {
+        "from_stop": "Художественный музей",
+        "to_stop": "Площадь графа Сперанского",
+        "average_travel_time_seconds": 195.0,
+        "average_speed_kmph": 11.031283843286243
+    },
+    {
+        "from_stop": "Площадь графа Сперанского",
+        "to_stop": "Чкалова",
+        "average_travel_time_seconds": 353.0,
+        "average_speed_kmph": 4.934777571566232
+    },
+    {
+        "from_stop": "2-я Железнодорожная",
+        "to_stop": "Вампилова",
+        "average_travel_time_seconds": 1874.0,
+        "average_speed_kmph": 6.285136548995794
+    },
+    {
+        "from_stop": "Первомайский микрорайон",
+        "to_stop": "Вампилова",
+        "average_travel_time_seconds": 67.0,
+        "average_speed_kmph": 21.641541338936154
+    },
+    {
+        "from_stop": "Вампилова",
+        "to_stop": "Институт МВД",
+        "average_travel_time_seconds": 704.0,
+        "average_speed_kmph": 9.21430655423664
+    },
+    {
+        "from_stop": "Институт МВД",
+        "to_stop": "Технический университет",
+        "average_travel_time_seconds": 94.0,
+        "average_speed_kmph": 25.36168062905004
+    },
+    {
+        "from_stop": "Технический университет",
+        "to_stop": "Жуковского",
+        "average_travel_time_seconds": 127.4,
+        "average_speed_kmph": 22.50936230482141
+    },
+    {
+        "from_stop": "Жуковского",
+        "to_stop": "Педучилище",
+        "average_travel_time_seconds": 188.5,
+        "average_speed_kmph": 14.25629727337844
+    },
+    {
+        "from_stop": "Педучилище",
+        "to_stop": "Свердловский рынок",
+        "average_travel_time_seconds": 128.6,
+        "average_speed_kmph": 18.859024937890144
+    },
+    {
+        "from_stop": "Свердловский рынок",
+        "to_stop": "ул. Маяковского",
+        "average_travel_time_seconds": 201.0,
+        "average_speed_kmph": 14.429210321026098
+    },
+    {
+        "from_stop": "ул. Маяковского",
+        "to_stop": "Чкалова",
+        "average_travel_time_seconds": 173.33333333333334,
+        "average_speed_kmph": 28.11713210627407
+    },
+    {
+        "from_stop": "Чкалова",
+        "to_stop": "Филармония",
+        "average_travel_time_seconds": 413.0,
+        "average_speed_kmph": 11.718063161420288
+    },
+    {
+        "from_stop": "Филармония",
+        "to_stop": "Центральный рынок",
+        "average_travel_time_seconds": 153.75,
+        "average_speed_kmph": 19.316136102227254
+    },
+    {
+        "from_stop": "Центральный рынок",
+        "to_stop": "Центральный рынок",
+        "average_travel_time_seconds": 71.5,
+        "average_speed_kmph": 14.478134323417137
+    },
+    {
+        "from_stop": "Центральный рынок",
+        "to_stop": "ГПТУ №1 (временный)",
+        "average_travel_time_seconds": 556.0,
+        "average_speed_kmph": 11.139858200009119
+    },
+    {
+        "from_stop": "Пшеничная",
+        "to_stop": "Чапаева",
+        "average_travel_time_seconds": 123.0,
+        "average_speed_kmph": 22.022619044085232
+    },
+    {
+        "from_stop": "Чапаева",
+        "to_stop": "Яковлева",
+        "average_travel_time_seconds": 81.0,
+        "average_speed_kmph": 24.945215707019784
+    },
+    {
+        "from_stop": "Свердловский рынок",
+        "to_stop": "Гоголя",
+        "average_travel_time_seconds": 123.0,
+        "average_speed_kmph": 20.909474757782792
+    },
+    {
+        "from_stop": "Гоголя",
+        "to_stop": "ул. Маяковского",
+        "average_travel_time_seconds": 93.75,
+        "average_speed_kmph": 12.205100414901823
+    },
+    {
+        "from_stop": "Чкалова",
+        "to_stop": "Сквер им. Кирова",
+        "average_travel_time_seconds": 109.5,
+        "average_speed_kmph": 15.329761941642978
+    },
+    {
+        "from_stop": "Сквер им. Кирова",
+        "to_stop": "Художественный музей",
+        "average_travel_time_seconds": 285.6666666666667,
+        "average_speed_kmph": 13.204028303130789
+    },
+    {
+        "from_stop": "Художественный музей",
+        "to_stop": "Завод им. Куйбышева",
+        "average_travel_time_seconds": 641.0,
+        "average_speed_kmph": 6.996379625558886
+    },
+    {
+        "from_stop": "Завод им. Куйбышева",
+        "to_stop": "Фортуна",
+        "average_travel_time_seconds": 548.0,
+        "average_speed_kmph": 4.685936444913559
+    },
+    {
+        "from_stop": "Площадь графа Сперанского",
+        "to_stop": "Курорт Ангара",
+        "average_travel_time_seconds": 1591.0,
+        "average_speed_kmph": 5.295879651142065
+    },
+    {
+        "from_stop": "Чайка",
+        "to_stop": "Шмидта",
+        "average_travel_time_seconds": 97.33333333333333,
+        "average_speed_kmph": 18.72110698775451
+    },
+    {
+        "from_stop": "Шмидта",
+        "to_stop": "Жуковского",
+        "average_travel_time_seconds": 105.5,
+        "average_speed_kmph": 20.339664889993998
+    },
+    {
+        "from_stop": "Жуковского",
+        "to_stop": "Технический университет",
+        "average_travel_time_seconds": 145.75,
+        "average_speed_kmph": 22.9913997362128
+    },
+    {
+        "from_stop": "Институт МВД",
+        "to_stop": "Госуниверситет",
+        "average_travel_time_seconds": 356.0,
+        "average_speed_kmph": 10.031955616715425
+    },
+    {
+        "from_stop": "Госуниверситет",
+        "to_stop": "Мегаполис",
+        "average_travel_time_seconds": 46.0,
+        "average_speed_kmph": 19.907288314787092
+    },
+    {
+        "from_stop": "Свердловский рынок",
+        "to_stop": "Сквер им. Кирова",
+        "average_travel_time_seconds": 481.0,
+        "average_speed_kmph": 14.90107555776336
+    },
+    {
+        "from_stop": "Центральный рынок",
+        "to_stop": "Декабрьских Событий",
+        "average_travel_time_seconds": 563.0,
+        "average_speed_kmph": 5.840186462199366
+    },
+    {
+        "from_stop": "Декабрьских Событий",
+        "to_stop": "Фортуна",
+        "average_travel_time_seconds": 74.0,
+        "average_speed_kmph": 23.0607154424174
+    },
+    {
+        "from_stop": "Гараж",
+        "to_stop": "Детская",
+        "average_travel_time_seconds": 259.0,
+        "average_speed_kmph": 18.445843836134646
+    },
+    {
+        "from_stop": "Детская",
+        "to_stop": "Яковлева",
+        "average_travel_time_seconds": 48.5,
+        "average_speed_kmph": 23.53030723364864
+    },
+    {
+        "from_stop": "Яковлева",
+        "to_stop": "Чапаева",
+        "average_travel_time_seconds": 429.0,
+        "average_speed_kmph": 13.56621720567114
+    },
+    {
+        "from_stop": "Шевцова",
+        "to_stop": "Яковлева",
+        "average_travel_time_seconds": 39.0,
+        "average_speed_kmph": 33.84819265450837
+    },
+    {
+        "from_stop": "Чапаева",
+        "to_stop": "ГПТУ №1 (временный)",
+        "average_travel_time_seconds": 359.0,
+        "average_speed_kmph": 13.139723699666495
+    },
+    {
+        "from_stop": "ГПТУ №1 (временный)",
+        "to_stop": "Шмидта",
+        "average_travel_time_seconds": 3117.0,
+        "average_speed_kmph": 5.106523669569047
+    },
+    {
+        "from_stop": "Технический университет",
+        "to_stop": "Госуниверситет",
+        "average_travel_time_seconds": 437.0,
+        "average_speed_kmph": 12.354664330490412
+    },
+    {
+        "from_stop": "Госуниверситет",
+        "to_stop": "Юридический институт",
+        "average_travel_time_seconds": 112.0,
+        "average_speed_kmph": 25.60403820001717
+    },
+    {
+        "from_stop": "Юридический институт",
+        "to_stop": "Гуманитарный центр",
+        "average_travel_time_seconds": 96.0,
+        "average_speed_kmph": 13.914571656432223
+    },
+    {
+        "from_stop": "Гуманитарный центр",
+        "to_stop": "Школа №55",
+        "average_travel_time_seconds": 219.0,
+        "average_speed_kmph": 11.810223461896772
+    },
+    {
+        "from_stop": "Школа №55",
+        "to_stop": "Ботанический Сад",
+        "average_travel_time_seconds": 227.5,
+        "average_speed_kmph": 7.969353426444844
+    },
+    {
+        "from_stop": "Яковлева",
+        "to_stop": "Топкинский микрорайон",
+        "average_travel_time_seconds": 184.0,
+        "average_speed_kmph": 19.75468248317457
+    },
+    {
+        "from_stop": "Топкинский микрорайон",
+        "to_stop": "Вампилова",
+        "average_travel_time_seconds": 5738.5,
+        "average_speed_kmph": 5.975261561937309
+    },
+    {
+        "from_stop": "Вампилова",
+        "to_stop": "Ботанический Сад",
+        "average_travel_time_seconds": 98.0,
+        "average_speed_kmph": 24.958777365307316
+    },
+    {
+        "from_stop": "Ботанический Сад",
+        "to_stop": "Школа №55",
+        "average_travel_time_seconds": 69.0,
+        "average_speed_kmph": 28.636373054174875
+    },
+    {
+        "from_stop": "Школа №55",
+        "to_stop": "Гуманитарный центр",
+        "average_travel_time_seconds": 163.66666666666666,
+        "average_speed_kmph": 14.307266881954385
+    },
+    {
+        "from_stop": "Гуманитарный центр",
+        "to_stop": "Технический университет",
+        "average_travel_time_seconds": 446.0,
+        "average_speed_kmph": 11.042168248898133
+    },
+    {
+        "from_stop": "Педучилище",
+        "to_stop": "Гоголя",
+        "average_travel_time_seconds": 222.0,
+        "average_speed_kmph": 20.76178193577048
+    },
+    {
+        "from_stop": "ул. Маяковского",
+        "to_stop": "Сквер им. Кирова",
+        "average_travel_time_seconds": 284.0,
+        "average_speed_kmph": 22.11374810281476
+    },
+    {
+        "from_stop": "Шевцова",
+        "to_stop": "Гараж (временный)",
+        "average_travel_time_seconds": 265.0,
+        "average_speed_kmph": 24.330962441650765
+    },
+    {
+        "from_stop": "Гараж (временный)",
+        "to_stop": "Фортуна",
+        "average_travel_time_seconds": 746.0,
+        "average_speed_kmph": 6.3428099041040005
+    },
+    {
+        "from_stop": "Фортуна",
+        "to_stop": "Центральный рынок",
+        "average_travel_time_seconds": 780.0,
+        "average_speed_kmph": 7.43516808830495
+    },
+    {
+        "from_stop": "Художественный музей",
+        "to_stop": "Мегаполис",
+        "average_travel_time_seconds": 2293.0,
+        "average_speed_kmph": 6.305731187913372
+    },
+    {
+        "from_stop": "Мегаполис",
+        "to_stop": "Юридический институт",
+        "average_travel_time_seconds": 40.0,
+        "average_speed_kmph": 49.481356520845694
+    },
+    {
+        "from_stop": "Юридический институт",
+        "to_stop": "Школа №55",
+        "average_travel_time_seconds": 321.0,
+        "average_speed_kmph": 11.154526358890957
+    },
+    {
+        "from_stop": "Детская",
+        "to_stop": "Шевцова",
+        "average_travel_time_seconds": 94.0,
+        "average_speed_kmph": 22.757673358816863
+    },
+    {
+        "from_stop": "Шевцова",
+        "to_stop": "Топкинский микрорайон",
+        "average_travel_time_seconds": 232.0,
+        "average_speed_kmph": 12.863051211736035
+    },
+    {
+        "from_stop": "Ботанический Сад",
+        "to_stop": "Юридический институт",
+        "average_travel_time_seconds": 263.0,
+        "average_speed_kmph": 19.17506454640645
+    },
+    {
+        "from_stop": "Юридический институт",
+        "to_stop": "Технический университет",
+        "average_travel_time_seconds": 454.5,
+        "average_speed_kmph": 11.730525016680472
+    },
+    {
+        "from_stop": "Жуковского",
+        "to_stop": "Гоголя",
+        "average_travel_time_seconds": 361.0,
+        "average_speed_kmph": 19.42741528993975
+    },
+    {
+        "from_stop": "Художественный музей",
+        "to_stop": "Филармония",
+        "average_travel_time_seconds": 237.75,
+        "average_speed_kmph": 10.746569681099478
+    },
+    {
+        "from_stop": "Енисейская",
+        "to_stop": "Онкодиспансер",
+        "average_travel_time_seconds": 169.0,
+        "average_speed_kmph": 31.49161461997846
+    },
+    {
+        "from_stop": "Онкодиспансер",
+        "to_stop": "Чкалова",
+        "average_travel_time_seconds": 1945.0,
+        "average_speed_kmph": 5.984009964103533
+    },
+    {
+        "from_stop": "Чкалова",
+        "to_stop": "Чайка",
+        "average_travel_time_seconds": 684.0,
+        "average_speed_kmph": 10.303846153532223
+    },
+    {
+        "from_stop": "Технический университет",
+        "to_stop": "Юридический институт",
+        "average_travel_time_seconds": 366.0,
+        "average_speed_kmph": 13.396324248129254
+    },
+    {
+        "from_stop": "Юридический институт",
+        "to_stop": "Ботанический Сад",
+        "average_travel_time_seconds": 451.0,
+        "average_speed_kmph": 11.231124945980733
+    },
+    {
+        "from_stop": "Филармония",
+        "to_stop": "Фортуна",
+        "average_travel_time_seconds": 1154.0,
+        "average_speed_kmph": 6.204117015671143
+    },
+    {
+        "from_stop": "Фортуна",
+        "to_stop": "Гараж",
+        "average_travel_time_seconds": 526.0,
+        "average_speed_kmph": 9.7997537921112
+    },
+    {
+        "from_stop": "Яковлева",
+        "to_stop": "Шевцова",
+        "average_travel_time_seconds": 40.5,
+        "average_speed_kmph": 25.426432261006184
+    },
+    {
+        "from_stop": "Топкинский микрорайон",
+        "to_stop": "Школа №55",
+        "average_travel_time_seconds": 5186.0,
+        "average_speed_kmph": 6.140399629713647
+    },
+    {
+        "from_stop": "Гуманитарный центр",
+        "to_stop": "Юридический институт",
+        "average_travel_time_seconds": 71.0,
+        "average_speed_kmph": 20.16694406832348
+    },
+    {
+        "from_stop": "Ботанический Сад",
+        "to_stop": "Технический университет",
+        "average_travel_time_seconds": 987.0,
+        "average_speed_kmph": 4.407800783409824
+    },
+    {
+        "from_stop": "Технический университет",
+        "to_stop": "Педучилище",
+        "average_travel_time_seconds": 250.0,
+        "average_speed_kmph": 19.57935247627235
+    },
+    {
+        "from_stop": "Гоголя",
+        "to_stop": "Чкалова",
+        "average_travel_time_seconds": 258.0,
+        "average_speed_kmph": 22.70865451219014
+    },
+    {
+        "from_stop": "Чкалова",
+        "to_stop": "Художественный музей",
+        "average_travel_time_seconds": 655.0,
+        "average_speed_kmph": 3.827056922824146
+    },
+    {
+        "from_stop": "Госуниверситет",
+        "to_stop": "Гуманитарный центр",
+        "average_travel_time_seconds": 235.0,
+        "average_speed_kmph": 17.561616747180153
+    },
+    {
+        "from_stop": "Гуманитарный центр",
+        "to_stop": "Институт МВД",
+        "average_travel_time_seconds": 396.0,
+        "average_speed_kmph": 10.130207826460662
+    },
+    {
+        "from_stop": "Институт МВД",
+        "to_stop": "Педучилище",
+        "average_travel_time_seconds": 354.0,
+        "average_speed_kmph": 20.490730227238128
+    },
+    {
+        "from_stop": "Сквер им. Кирова",
+        "to_stop": "Чапаева",
+        "average_travel_time_seconds": 1986.0,
+        "average_speed_kmph": 6.237593483364477
+    },
+    {
+        "from_stop": "Чапаева",
+        "to_stop": "Шевцова",
+        "average_travel_time_seconds": 109.0,
+        "average_speed_kmph": 26.965041901760944
+    },
+    {
+        "from_stop": "Гуманитарный центр",
+        "to_stop": "Жуковского",
+        "average_travel_time_seconds": 585.0,
+        "average_speed_kmph": 11.528923028367256
+    },
+    {
+        "from_stop": "Гоголя",
+        "to_stop": "Сквер им. Кирова",
+        "average_travel_time_seconds": 396.0,
+        "average_speed_kmph": 17.789566709386293
+    },
+    {
+        "from_stop": "Центральный рынок",
+        "to_stop": "Фортуна",
+        "average_travel_time_seconds": 406.0,
+        "average_speed_kmph": 11.898440119730557
+    },
+    {
+        "from_stop": "Центральный рынок",
+        "to_stop": "Чкалова",
+        "average_travel_time_seconds": 1267.0,
+        "average_speed_kmph": 4.6853215060338265
+    }
+]
